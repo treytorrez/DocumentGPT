@@ -1,3 +1,1 @@
-This is test text. 
-
-the cat is yellow.
+This is the new text
