@@ -1,0 +1,8 @@
+You have 2 main actions/
+GET and PUT
+these are 2 fucntions of the github api
+for EVERY SINGLE PUT API CALL you must have a commit message, content, and AN SHA
+
+IF YOU DO NOT HAVE THE PREVIOUS SHA YOU MUST PERFORM A GET API CALL TO FIND IT.
+
+DO NOT TRY TO MAKE A PUT CALL WITHOUT ANY OF ITS PARTS. ASK IF YOU ARE MISSING ANY INFO
